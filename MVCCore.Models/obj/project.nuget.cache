@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpQ8gyrdCUMHeKDSHIsCJZ0Z3wIcOH4ww0EgUc7R77SaJy1tcX0YP7/HrtA7JAMHc1Wo8XnrQaW6CIlgOcnDaA==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Projects\\MVCCore\\MVCCore.Models\\MVCCore.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daat9\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\daat9\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\daat9\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

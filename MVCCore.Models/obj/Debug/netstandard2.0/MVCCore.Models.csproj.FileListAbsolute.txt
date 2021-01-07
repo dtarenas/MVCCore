@@ -1,0 +1,9 @@
+D:\Personal\Projects\MVCCore\MVCCore.Models\bin\Debug\netstandard2.0\MVCCore.Models.deps.json
+D:\Personal\Projects\MVCCore\MVCCore.Models\bin\Debug\netstandard2.0\MVCCore.Models.dll
+D:\Personal\Projects\MVCCore\MVCCore.Models\bin\Debug\netstandard2.0\MVCCore.Models.pdb
+D:\Personal\Projects\MVCCore\MVCCore.Models\obj\Debug\netstandard2.0\MVCCore.Models.csprojAssemblyReference.cache
+D:\Personal\Projects\MVCCore\MVCCore.Models\obj\Debug\netstandard2.0\MVCCore.Models.AssemblyInfoInputs.cache
+D:\Personal\Projects\MVCCore\MVCCore.Models\obj\Debug\netstandard2.0\MVCCore.Models.AssemblyInfo.cs
+D:\Personal\Projects\MVCCore\MVCCore.Models\obj\Debug\netstandard2.0\MVCCore.Models.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\MVCCore\MVCCore.Models\obj\Debug\netstandard2.0\MVCCore.Models.dll
+D:\Personal\Projects\MVCCore\MVCCore.Models\obj\Debug\netstandard2.0\MVCCore.Models.pdb
